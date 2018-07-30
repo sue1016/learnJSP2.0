@@ -11,6 +11,6 @@
     <title>learnJSP2.0</title>
   </head>
   <body>
-  <h1>learnJSP2.0</h1>>
+  <h1>learnJSP2.0</h1>
   </body>
 </html>
